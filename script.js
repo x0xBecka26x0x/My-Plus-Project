@@ -1,4 +1,3 @@
-
 function showSignUpFormValues(event) {
     event.preventDefault();
     let emailInput = document.querySelector("#email-input");
